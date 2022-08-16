@@ -1,4 +1,4 @@
-package com.example.ecostocks
+package com.echostocks
 
 import io.flutter.embedding.android.FlutterActivity
 

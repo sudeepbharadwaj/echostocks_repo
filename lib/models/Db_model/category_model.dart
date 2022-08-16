@@ -1,0 +1,11 @@
+ const categorytable='category_table';
+  const catKey='key';
+  const catID='id';
+   const cattitle='title';
+   const catdescription="description";
+   const cattitleimage="title_image";
+   const catcategory="category";
+   const catauthor="author";
+   const catsourceurl="source_url";
+   const catsource="source";
+   const catcreatedat="created_at";

@@ -1,5 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.ecostocks">
+    package="com.echostocks">
+
+
+    <uses-permission android:name="android.permission.INTERNET"/>
 
 
     <queries>
@@ -12,7 +15,7 @@
 
 </queries>
    <application
-        android:label="ecostocks"
+        android:label="echostocks"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

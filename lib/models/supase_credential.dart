@@ -1,0 +1,2 @@
+const String url='https://mcgishhpyjwbzbmtcrhm.supabase.co';
+const String anonkey='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1jZ2lzaGhweWp3YnpibXRjcmhtIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NTk3ODk4NDcsImV4cCI6MTk3NTM2NTg0N30.1C6UM0mY-fhAb__uUkI13uZygJl_NgcDXRDcWCde03Y';
